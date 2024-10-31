@@ -237,7 +237,23 @@ Những phát minh này đã đặt nền tảng cho sự phát triển của m�
 -  r : read
  - w : write
 -  x : execute
-
  # Chương 5: Git và ứng dụng
-
+# Git và GitHub:
+- GitHub là nền tảng lưu trữ Git trực tuyến phổ biến, hỗ trợ cả dự án mã nguồn mở và cá nhân.
+- Git là công cụ kiểm soát phiên bản phân tán được tạo ra bởi Linus Torvalds vào năm 2005, hỗ trợ nhiều nhánh (branch) và phân phối trên nhiều thiết bị.
+- Các lệnh cơ bản của Git:
+- git init: Khởi tạo kho lưu trữ mới.
+- git clone [url]: Sao chép kho lưu trữ từ một máy chủ từ xa.
+- git add [file]: Thêm tệp vào vùng staging.
+- git commit -m "message": Ghi lại ảnh chụp nhanh của các tệp từ staging vào kho lưu trữ cục bộ.
+- git pull: Cập nhật những thay đổi mới nhất từ kho lưu trữ từ xa.
+- git push: Đẩy những thay đổi từ kho lưu trữ cục bộ sang kho lưu trữ từ xa.
+# Thực hành tốt:
+- Thêm và Commit thường xuyên: Thực hiện các thay đổi nhỏ để dễ kiểm soát.
+- Luôn git pull trước khi chỉnh sửa để tránh xung đột phiên bản.
+- Push sau khi commit để đồng bộ hóa thay đổi trên kho lưu trữ từ xa.
+# Phân nhánh và hợp nhất:
+- git branch [tên nhánh]: Tạo nhánh mới.
+- git checkout [tên nhánh]: Chuyển sang nhánh mới.
+- git merge [tên nhánh]: Hợp nhất nhánh mới vào nhánh hiện tại.
   
