@@ -13,3 +13,5 @@ This is for Intro2IT-NO7
 ## Chương 4
 - Linux
 ## Chương 5
+- Git và Githud
+  
