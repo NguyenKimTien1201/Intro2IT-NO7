@@ -192,6 +192,31 @@ Những phát minh này đã đặt nền tảng cho sự phát triển của m�
 - Tìm Kiếm Hỗ Trợ: Biết cách tra cứu và tìm kiếm giải pháp cho các vấn đề kỹ thuật trực tuyến.
 - Kỹ năng sử dụng máy tính và công cụ là thiết yếu trong công việc và học tập, giúp nâng cao hiệu suất làm việc và khả năng giao tiếp.
 # Chương 4: Linux
+# Làm việc với Linux 
+# Lệnh shell cơ bản
+- pwd: in thư mục làm việv hiện tại
+- cd: thay đổi thư mục làm việc
+- ls: liệt kê cái tệp tin trong thư mục làm việc
+- man: đưa ra hướng dẫn cho 1 lệnh
+- exit: đăng xuất hỏi shell
+# Lệnh shell hệ thống
+- clear: xóa tất cả đầu ra khỏi bảng điều khiển
+- date: xuất ngày hệ thống
+- cal: xuất lịch văn bản
+- uname: in thông tin về hệ thống hiện tại
+# Lệnh thư mục
+- ls: liệt kê các tệp tin trong thư mục làm việc
+- pwd: in thư mục làm việc hiện tại
+- cd: thay đổi thư mục làm việc
+- mkdir: tạo 1 thư mục mới
+- rmdir: xóa thư mục đã cho
+# Lệnh tệp
+- cat: hiển thị nội dung tệp
+- cp: sao chép tệp
+- mv: di chuyển tệp
+- rm: xóa tệp đã cho
+- touh: tạo tệp trống or thay đổi thời gian sửa đổi
+
 # Chương 5: Git và ứng dụng
 
   
