@@ -216,7 +216,28 @@ Những phát minh này đã đặt nền tảng cho sự phát triển của m�
 - mv: di chuyển tệp
 - rm: xóa tệp đã cho
 - touh: tạo tệp trống or thay đổi thời gian sửa đổi
+# Hệ thống tệp và quyền
+# Truy cập ngay trên thư mục / tệp
+- read (r)
+- write (w)
+- execute (x)
+# Mỗi thư mục/file có 9 bit bên phải truy cập, được chia thành 3 nhóm như sau:
+- chủ nhân
+- nhóm (ví dụ: những người trong cùng một nhóm dự án)
+- những người khác (những người trong phạm vi công cộng)
+# Thay đổi quyền truy cập
+# Tượng trưng
+-  chmod  who op mode [-R] file(s)
+  # Who:
+-   u : owner 
+ - g : group
+ - o : others
+-  a : all
+  # Mode:
+-  r : read
+ - w : write
+-  x : execute
 
-# Chương 5: Git và ứng dụng
+ # Chương 5: Git và ứng dụng
 
   
