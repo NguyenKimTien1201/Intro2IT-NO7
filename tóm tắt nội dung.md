@@ -173,3 +173,27 @@ Mỗi người dùng có thể có bản sao riêng của kho lưu trữ (Git s�
 ## 9. Tài liệu tham khảo
 - VietJack - Python
 - W3Schools - Python
+# Sử dụng ChatGPT tạo 3 câu hỏi liên quan tới nội dung đó (độ khó cao)
+## Câu hỏi 1: Trắc nghiệm một đáp án
+### Câu hỏi: Trong thuật toán đệ quy, yếu tố nào sau đây là bắt buộc để đảm bảo thuật toán không rơi vào vòng lặp vô hạn?
+- A. Phải có ít nhất một bước gọi chính nó với đầu vào không đổi.
+- B. Phải có điều kiện cơ sở (base case) được kích hoạt tại một số bước cụ thể.
+- C. Sử dụng biến toàn cục để lưu trạng thái.
+- D. Tất cả các nhánh đệ quy phải thực thi đồng thời.
+
+#### Đáp án đúng: B
+
+## Câu hỏi 2: Trắc nghiệm nhiều đáp án
+### Câu hỏi: Xét các phát biểu sau về Git:
+- A. Khi hợp nhất (merge) nhánh, việc sử dụng --no-ff sẽ tạo một commit mới ngay cả khi hợp nhất không yêu cầu.
+- B. Lệnh git reset --soft <commit> xóa hoàn toàn các thay đổi khỏi lịch sử Git.
+- C. Lệnh git rebase có thể thay đổi lịch sử commit, gây rủi ro xung đột khi làm việc nhóm.
+- D. git stash apply phục hồi thay đổi tạm thời và xóa mục stash khỏi danh sách.
+- E. git log --oneline hiển thị lịch sử commit ngắn gọn dưới dạng một dòng cho mỗi commit.
+
+#### Đáp án đúng: A, C, E
+
+## Câu hỏi 3: Điền vào chỗ trống
+### Câu hỏi: Độ phức tạp của thuật toán tìm kiếm nhị phân trên một danh sách có n phần tử là __________, trong khi độ phức tạp của thuật toán sắp xếp trộn (merge sort) trên cùng một danh sách là __________.
+
+#### Đáp án: 0(logn),0(nlogn)
